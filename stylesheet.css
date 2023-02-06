@@ -17,7 +17,7 @@ ul{
 li{
   display: inline-block;
   list-style: none;
-  background-color: lightpink;
+  background-color: LavenderBlush;
 }
 li:not(.list1){
   margin-left: 20px;
