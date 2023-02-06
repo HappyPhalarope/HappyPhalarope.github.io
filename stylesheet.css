@@ -1,8 +1,13 @@
 p.img1 img {
     width: 600px;  
 }
-ul {
+
+ul{
+}
+li{
   list-style: none;
+  background-color: lightpink;
+  float: left;
 }
 
 body {
