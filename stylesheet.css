@@ -1,4 +1,4 @@
-body{
+body {
    background-color: #e4d2d8 !important;
    text-align: center !important;
 }
@@ -8,28 +8,28 @@ p.img1 img {
 }
 
 
-.banner img{
+.banner img {
     width: 90%;  
 }
 
-nav{
+nav {
   width: 500px;
   background-color: #e4d2d8;
 }
-ul{
+ul {
   text-align: center;
 }
-li{
+li {
   display: inline-block;
   list-style: none;
   background-color: #e4d2d8;
 }
-li:not(.list1){
+li:not(.list1) {
   margin-left: 20px;
 }
 
 
-h1{
+h1 {
     color:　Gray;
     font-size: 50px;
     font-family: "impact";
