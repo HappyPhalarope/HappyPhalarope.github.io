@@ -2,14 +2,17 @@ p.img1 img {
     width: 600px;  
 }
 
+nav{
+  width: 500px;
+  background-color: LavenderBlush;
+}
 ul{
+ display: flex;
 }
 li{
   list-style: none;
-  background-color: lightpink;
-  float: left;
+  margin-left: 20px;
 }
-
 body {
     background: LavenderBlush;
     text-align: center;
