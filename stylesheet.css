@@ -1,9 +1,17 @@
+body{
+   background-color: #f4b3c2;
+   text-align: center;
+}
+
 p.img1 img {
     width: 600px;  
 }
+
+
 .banner img{
     width: 200px;  
 }
+
 nav{
   width: 500px;
   background-color: #f4b3c2;
@@ -20,14 +28,19 @@ li:not(.list1){
   margin-left: 20px;
 }
 
+
 h1{
     color:　Gray;
     font-size: 50px;
     font-family: "impact";
 }
+
+
 footer.foot{
     color:white;
 }
+
+
 footer {
     background: rgba(170, 170, 170, 0.3);
 }
