@@ -1,16 +1,4 @@
-body {
-	color: #000;
-	font-size: 15px;
-	font-family: "游ゴシック", YuGothic, "メイリオ", Meiryo, "ヒラギノ角ゴ ProN", "Hiragino Kaku Gothic ProN", "ヒラギノ角ゴ Pro", "Hiragino Kaku Gothic Pro", sans-serif;
-	font-weight: 500;
-	line-height: 1.8;
-	text-align: center;
-	background-color: #e4d2d8;
-	width: 100%;
-	min-width: 960px;
-	margin: 0 auto;
-	border-bottom: solid 10px #fff;
-}
+
 
 p.img1 img {
     width: 600px;  
