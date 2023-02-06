@@ -24,6 +24,5 @@ foot{
     color:white;
 }
 footer {
-    background: Black;
-    text-align: center;
+    background: Brgba(170, 170, 170, 0.3);
 }
