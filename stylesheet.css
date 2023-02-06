@@ -7,11 +7,15 @@ ul {
 
 body {
     background: LavenderBlush;
-    -align: center;
+    text-align: center;
 }
 
 h1{
     color:　rgb(150,150,150);
     font-size: 70px;
     font-family: "impact";
+}
+footer {
+    background: Black;
+    text-align: center;
 }
