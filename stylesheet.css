@@ -1,6 +1,6 @@
 body#body_edit{
-   background-color: #e4d2d8;
-   text-align: center;
+   background-color: #e4d2d8 !important;
+   text-align: center !important;
 }
 
 p.img1 img {
