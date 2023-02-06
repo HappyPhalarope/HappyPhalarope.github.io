@@ -8,7 +8,7 @@ p.img1 img {
 }
 nav{
   width: 500px;
-  background-color: #e4d2d8;
+  background-color: #f4b3c2;
 }
 ul{
   text-align: center;
@@ -16,7 +16,7 @@ ul{
 li{
   display: inline-block;
   list-style: none;
-  background-color: #e4d2d8;
+  background-color: #f4b3c2;
 }
 li:not(.list1){
   margin-left: 20px;
