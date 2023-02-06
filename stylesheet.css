@@ -5,7 +5,7 @@ body {
 	font-weight: 500;
 	line-height: 1.8;
 	text-align: center;
-	background-color: LavenderBlush;
+	background-color: #e4d2d8;
 	width: 100%;
 	min-width: 960px;
 	margin: 0 auto;
@@ -20,7 +20,7 @@ p.img1 img {
 }
 nav{
   width: 500px;
-  background-color: LavenderBlush;
+  background-color: #e4d2d8;
 }
 ul{
   text-align: center;
@@ -28,7 +28,7 @@ ul{
 li{
   display: inline-block;
   list-style: none;
-  background-color: LavenderBlush;
+  background-color: #e4d2d8;
 }
 li:not(.list1){
   margin-left: 20px;
