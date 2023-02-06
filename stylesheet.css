@@ -15,7 +15,9 @@ body {
 p.img1 img {
     width: 600px;  
 }
-
+.banner img{
+    width: 200px;  
+}
 nav{
   width: 500px;
   background-color: LavenderBlush;
