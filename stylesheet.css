@@ -11,7 +11,8 @@ body {
     align: center;
 }
 
-h1.title1{
+h1{
     color:　rgb(120,120,120)
     font-size: 40px
+    font-family: "impact"
 }
