@@ -24,6 +24,7 @@ header .headline{
   list-style: none;
   display: inline-block;
   margin: 0 20px;
+  background-color: #9e8b8e;
 }
 
 body {
