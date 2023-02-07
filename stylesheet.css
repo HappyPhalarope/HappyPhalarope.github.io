@@ -33,7 +33,8 @@ body {
 }
 
 .img1 img {
-    width: 600px;
+    width: 600px;]
+    text-align: center !important;
     margin:0 auto;
 }
 
@@ -69,8 +70,6 @@ li {
 li:not(.list1) {
   margin-left: 20px;
 }
-
-
 
 footer{
     width: 100%;
