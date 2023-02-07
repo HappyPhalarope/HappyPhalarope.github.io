@@ -31,11 +31,12 @@ body {
    background-color: #e4d2d8 !important;
 }
 
-.img1 img {
-    width: 600px;]
-    text-align: center !important;
-}
 
+.img img {
+  width: 60%;
+  margin: auto;
+  display: block;
+}
 
 .banner img {
     width: 90%;  
