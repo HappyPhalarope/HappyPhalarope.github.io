@@ -54,11 +54,6 @@ footer.foot {
 }
 
 
-footer {
-    background: rgba(170, 170, 170, 0.3);
-    text-align: right !important;
-}
-
 nav {
   width: 500px;
   background-color: #e4d2d8;
@@ -87,5 +82,7 @@ footer{
     text-align: center;
 }
 ul.footer-menu li {
-    display: inline;
+    display: inline-block;
+ 　　　 list-style: none;
+ 　　　 background-color: #9e8b8e;
 }
