@@ -27,11 +27,6 @@ header.headline{
   background-color: 95859c;
 }
 
-body {
-   background-color: #e4d2d8;
-  　text-align: center;
-}
-
 .Phalarope img {
     width: 60%;  
 }
@@ -84,4 +79,9 @@ footer{
     display: inline-block;
  　　　 list-style: none;
  　　　 background-color:　95859c;
+}
+
+body {
+   background-color: #e4d2d8;
+   text-align: center;
 }
