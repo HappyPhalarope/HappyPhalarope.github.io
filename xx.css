@@ -21,3 +21,9 @@ a:hover {
   margin: 0 8%;
   background-color: 95859c;
 }
+
+.title1 {
+    font-size: 50px !important;
+    font-family: "impact" !important;
+    margin: 12px 4px; 
+}
