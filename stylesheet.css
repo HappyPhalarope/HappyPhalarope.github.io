@@ -5,18 +5,21 @@ header {
   background-color: #9e8b8e;
   color: Black;
 }
+
 header.headline{
     line-height: 30px;
     float: left;
     font-size: 30px;
     margin-left: 100px;
 }
+
 .nav-list {
     line-height: 10px;
     float: left;
     margin-left: 30px;
     list-style: none;
 }
+
 .nav-list-item {
   list-style: none;
   display: inline-block;
@@ -26,6 +29,7 @@ header.headline{
 
 body {
    background-color: #e4d2d8 !important;
+}
 
 .Phalarope img {
     width: 60%;  
@@ -39,8 +43,7 @@ body {
 .title1 {
     font-size: 50px !important;
     font-family: "impact" !important;
-    margin: 0 0px;
-    
+    margin: 0 0px;  
 }
 
 
@@ -53,14 +56,17 @@ nav {
   width: 500px;
   background-color: #e4d2d8;
 }
+
 ul {
   text-align: center;
 }
+
 li {
   display: inline-block;
   list-style: none;
   background-color: #e4d2d8;
 }
+
 li:not(.list1) {
   margin-left: 20px;
 }
