@@ -27,7 +27,10 @@ header.headline{
 body {
    background-color: #e4d2d8 !important;
 
-
+.Phalarope img {
+    width: 60%;  
+}
+  
 .banner img {
     width: 90%;  
 }
