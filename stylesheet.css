@@ -33,7 +33,8 @@ body {
 }
 
 img1 img {
-    width: 600px;  
+    width: 600px;
+    margin:0 auto;
 }
 
 
