@@ -40,13 +40,9 @@ p.img1 img {
     width: 90%;  
 }
 
-
-
-
-h1 {
-    color:　Gray;
-    font-size: 50px;
-    font-family: "impact";
+title1{
+    font-size: 50px !important;
+    font-family: "impact" !important;
 }
 
 
@@ -58,4 +54,20 @@ footer.foot{
 footer {
     background: rgba(170, 170, 170, 0.3);
     text-align: right !important;
+}
+
+nav {
+  width: 500px;
+  background-color: #e4d2d8;
+}
+ul {
+  text-align: center;
+}
+li {
+  display: inline-block;
+  list-style: none;
+  background-color: #e4d2d8;
+}
+li:not(.list1) {
+  margin-left: 20px;
 }
