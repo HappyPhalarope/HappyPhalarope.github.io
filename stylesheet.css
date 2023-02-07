@@ -31,11 +31,8 @@ body {
    background-color: #e4d2d8 !important;
 }
 
-.img1　{
-  width: 60%;
-  margin: auto;
-  padding: 5% 10%;
-  display: block;
+div.img1 img　{
+    width: 60%;
 }
 
 .banner img {
