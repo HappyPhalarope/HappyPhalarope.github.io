@@ -2,7 +2,7 @@ header {
   height: 120px;
   width: 100%;
   padding: 15px 0;
-  background-color: 95859c;
+  background-color: #9e8b8e !important;
   color: Black;
 }
 
@@ -70,7 +70,7 @@ li:not(.list1) {
 footer{
     width: 100%;
     height: 100px;
-    background-color: 95859c;
+    background-color: #9e8b8e !important;
     color: Black;
     text-align: center;
 }
