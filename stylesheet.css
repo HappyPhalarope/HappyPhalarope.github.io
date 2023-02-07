@@ -32,7 +32,7 @@ body {
    text-align: center !important;
 }
 
-p.img1 img {
+div#img1 img {
     width: 600px;  
 }
 
