@@ -77,16 +77,18 @@ footer{
   margin:10px 10px;
   text-align: center;
 }
+
 .footer-menu li{
-  margin:0px 60px;
+  margin:10px 70px;
 }
 
 .footer-last{
   text-align: right;
-  margin-top:25px;
+  margin-top:10px;
   margin-bottom:1px;
   margin-right: 5px; 
 }
+
 
 body {
    background-color: #e4d2d8;
