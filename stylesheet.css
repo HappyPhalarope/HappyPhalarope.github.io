@@ -95,7 +95,7 @@ body {
    text-align: center;
 }
 
-.col-md-4 img {
+.col-md-4 col-sm-10 border-0 {
   padding: 0px 0px 0px 0px !important;
   margin: 0px 0px 0px 0px !important;
 }
