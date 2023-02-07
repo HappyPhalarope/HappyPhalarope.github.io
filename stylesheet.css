@@ -63,9 +63,10 @@ footer{
 }
 
 .footer-menu {
-    display: inline-block;
- 　　　 list-style: none;
- 　　　 background-color:　95859c;
+  display: inline-block;
+  list-style: none;
+  background-color:　95859c;
+  margin:10px 0;
 }
 
 body {
