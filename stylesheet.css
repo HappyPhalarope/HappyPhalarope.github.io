@@ -59,14 +59,24 @@ footer{
     height: 100px;
     background-color: #9e8b8e !important;
     color: Black;
-    text-align: center;
 }
 
 .footer-menu {
   display: inline-block;
   list-style: none;
   background-color:　95859c;
-  margin:10px 0;
+  margin:10px 10px;
+  text-align: center;
+}
+.footer-menu li{
+  margin:0px 60px;
+}
+
+.footer-last{
+  text-align: right;
+  margin-top:25px;
+  margin-bottom:1px;
+  margin-right: 5px; 
 }
 
 body {
