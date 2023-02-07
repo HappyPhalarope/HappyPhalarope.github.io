@@ -6,7 +6,7 @@ header {
   width: 100%;
   padding: 15px 0;
   background-color: #9e8b8e;
-  color: white;
+  color: #9e8b8e;
 }
 header .headline{
     line-height: 100px;
@@ -81,7 +81,7 @@ footer{
     width: 100%;
     height: 100px;
     background-color: #9e8b8e;
-    color: white;
+    color: #9e8b8e;
     text-align: center;
 }
 ul.footer-menu li {
