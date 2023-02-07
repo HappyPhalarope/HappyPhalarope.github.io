@@ -96,6 +96,6 @@ body {
 }
 
 .col-md-4 img {
-  padding-right: 0px;
+  padding: 0px 0px 0px 0px !important;
   margin: 0px 0px 0px 0px !important;
 }
