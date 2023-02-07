@@ -29,7 +29,7 @@ body {
 
   
 .Phalarope img　{
-    width: 60%;
+    width: 60% !important;
 }
 
 .banner img {
