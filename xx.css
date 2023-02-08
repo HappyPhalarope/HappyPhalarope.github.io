@@ -33,10 +33,6 @@ a:hover {
     margin: 10px 0px 12px 0px;
 }
 
-.img-60% img {
-  width:60%;
-}
-
 figure{
   text-align:right;
 }
@@ -113,4 +109,8 @@ figcaption{
 
 .hidarizoroe{
   text-align: left;
+}
+
+.img-60% img {
+  width:60%;
 }
