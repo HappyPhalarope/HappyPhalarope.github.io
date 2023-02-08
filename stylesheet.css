@@ -35,6 +35,10 @@ a:hover {
     width: 90%;  
 }
 
+.banner div {
+  padding: 0% !important;
+}
+
 
 .title1 {
     font-size: 50px !important;
