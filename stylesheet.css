@@ -39,7 +39,7 @@ a:hover {
 .title1 {
     font-size: 50px !important;
     font-family: "impact" !important;
-    margin: 12px 4px; 
+    margin: 10px 0px 12px 0px;
 }
 
 
@@ -84,7 +84,7 @@ footer{
 }
 
 .footer-menu li{
-  margin:0% 70%;
+  margin:0% 7%;
 }
 
 .footer-last{
