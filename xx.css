@@ -33,6 +33,9 @@ a:hover {
     margin: 10px 0px 12px 0px;
 }
 
+figure{
+  text-align:right;
+}
 
 footer.foot {
     color:white;
@@ -94,4 +97,8 @@ footer{
 body {
    background-color: #e4d2d8;
    text-align: center;
+}
+
+figcaption{
+  font:10px;
 }
