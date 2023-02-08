@@ -75,6 +75,7 @@ footer{
 }
 
 .footer-menu {
+  width: 100%;
   display: inline-block;
   list-style: none;
   background-color:　95859c;
@@ -84,7 +85,6 @@ footer{
 }
 
 .footer-menu li{
-  width: 100%;
   margin:1% 70%;
 }
 
