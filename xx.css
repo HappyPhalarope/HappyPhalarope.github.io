@@ -33,6 +33,9 @@ a:hover {
     margin: 10px 0px 12px 0px;
 }
 
+.img-60% {
+  width: 60%;
+}
 figure{
   text-align:right;
 }
