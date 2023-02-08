@@ -78,12 +78,14 @@ footer{
   display: inline-block;
   list-style: none;
   background-color:　95859c;
-  margin:10px 10px;
+  margin-top:10px;
   text-align: center;
+  padding: 0rem;
 }
 
 .footer-menu li{
-  margin:10px 70px;
+  width: 100%;
+  margin:1% 70%;
 }
 
 .footer-last{
