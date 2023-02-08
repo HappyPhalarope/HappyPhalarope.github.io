@@ -18,8 +18,12 @@ a:hover {
 .nav-list-item {
   list-style: none;
   display: inline-block;
-  margin: 0 8%;
+  margin: 0 4% 0% 4%;
   background-color: 95859c;
+}
+
+.nav-list {
+  padding: 0;
 }
 
 .Phalarope img {
