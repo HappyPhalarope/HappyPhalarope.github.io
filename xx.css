@@ -44,6 +44,11 @@ a:hover {
 
 .Pha img{
   width:20%;
+  margin: 0% 15% 0% ;
+}
+
+.Pha {
+  text-align: left;
 }
 
 figure{
