@@ -103,14 +103,19 @@ figcaption{
   font:10px;
 }
 
-.bold {
- 　 font-weight: bold;
-}
-
 .hidarizoroe{
   text-align: left;
 }
 
 .img-60 img {
   width:60%;
+}
+
+.mannnaka {
+  text-align: left;
+  margin:0% 10% 0% 30%; 
+}
+
+.bold {
+   font-weight: bold;
 }
