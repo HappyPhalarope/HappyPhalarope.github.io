@@ -108,7 +108,7 @@ figcaption{
 }
 
 .img-60 img {
-  width:60%;
+  width:30%;
 }
 
 .mannnaka {
@@ -118,4 +118,8 @@ figcaption{
 
 .bold {
    font-weight: bold;
+}
+
+.small-70 {
+  font-size: 0.7rem;
 }
