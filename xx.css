@@ -33,6 +33,11 @@ a:hover {
     margin: 10px 0px 12px 0px;
 }
 
+.about-main{
+  text-align: left;
+  margin:3% 15% 4% 15%;
+}
+
 figure{
   text-align:right;
 }
