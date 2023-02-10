@@ -1,1 +1,18 @@
+.side {
+  background-color:#9e8b8e;
+  width:100px;
+  height:300px;
+  text-align:center;
+} 
 
+.content {
+  background-color:#e4d2d8;
+  width:250px;
+  height:300px;
+  text-align:center;
+  margin-left:0px;
+}
+
+article {
+  display:flex;
+}
