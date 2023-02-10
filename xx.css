@@ -85,6 +85,8 @@ footer{
     height: 100px;
     background-color: #9e8b8e !important;
     color: Black;
+    position: absolute;
+    bottom: 0; 
 }
 
 .footer-menu {
