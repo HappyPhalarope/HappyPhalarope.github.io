@@ -1,13 +1,15 @@
 .side {
   background-color:#e9dfe5;
   width:15%;
-  text-align:center;
+  text-align:left;
+  padding:5%;
 } 
 
 .content {
   background-color:#e4d2d8;
   width:85%;
   text-align:left;
+  padding:5%;
   margin-left:0px;
 }
 
