@@ -27,7 +27,7 @@ a:hover {
 }
 
 .Phalarope img {
- 　 　　　min-width :100px;
+ 　 　　　min-width :500px;
     width: 60%;  
     margin: 15px 4px;
 }
@@ -111,8 +111,9 @@ body {
 }
 
 .info {
-  text-align: left;
-  margin:2% 30%;
+    text-align: left;
+    margin: 2% 40% 2% 30%;
+    min-width: 500px;
 }
 
 .infomation {
