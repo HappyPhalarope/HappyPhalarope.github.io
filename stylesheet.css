@@ -27,6 +27,7 @@ a:hover {
 }
 
 .Phalarope img {
+ 　 　　　min-width :100px;
     width: 60%;  
     margin: 15px 4px;
 }
