@@ -2,7 +2,7 @@
   background-color:#e9dfe5;
   width:15%;
   text-align:left;
-  padding:5%;
+  padding:2%;
 } 
 
 .content {
@@ -16,3 +16,7 @@
 article {
   display:flex;
 }
+
+.side ul {
+  padding:0%;
+}    
