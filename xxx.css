@@ -29,3 +29,11 @@ article {
  　 　　　min-width :300px;
     width: 30%;  
 }
+
+figure {
+  text-align:left ;
+}
+
+figcaption{
+  color:grey;font:10px ;
+}
