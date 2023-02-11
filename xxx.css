@@ -37,3 +37,7 @@ figure {
 figcaption{
   color:grey;font:10px ;
 }
+
+.image-row {
+  display: flex;
+}
