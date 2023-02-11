@@ -30,14 +30,6 @@ article {
     width: 30%;  
 }
 
-figure {
-  text-align:left ;
-}
-
-figcaption{
-  color:grey;font:10px ;
-}
-
 .image-row {
   display: flex;
 }
