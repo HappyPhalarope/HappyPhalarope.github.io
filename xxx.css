@@ -40,7 +40,12 @@ figure {
   textalign: left;
 }
 
+figure img{
+    min-width :300px;
+    width: 30%;  
+}
 
 figcaption{
   font-size: 10px;
+  textalihn: left;
 }
