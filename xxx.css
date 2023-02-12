@@ -25,11 +25,11 @@ article {
   text-align: left;
 }
 
+.image-row {
+  display: flex;
+}
+
 .Thrushes-img img {
  　 　　　min-width :300px;
     width: 30%;  
-}
-
-.image-row {
-  display: flex;
 }
