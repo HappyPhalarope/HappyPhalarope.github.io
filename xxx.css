@@ -1,3 +1,8 @@
+header {
+  position: fixed;
+  overflow: auto;
+}
+
 .side {
   background-color:#e9dfe5;
   width:15%;
