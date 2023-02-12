@@ -34,6 +34,11 @@ article {
     width: 30%;  
 }
 
+figure {
+  textalign: left;
+}
+
+
 figcaption{
   font-size: 10px;
 }
