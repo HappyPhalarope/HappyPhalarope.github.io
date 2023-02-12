@@ -41,11 +41,12 @@ figure {
 }
 
 figure img{
-    min-width :300px;
-    width: 30%;  
+    min-width :300px !important;
+    width: 30% !important;  
 }
 
 figcaption{
-  font-size: 10px;
-  textalihn: left;
+  font-size: 12px;
+  textalihn: left !important;
+  display: inline;
 }
