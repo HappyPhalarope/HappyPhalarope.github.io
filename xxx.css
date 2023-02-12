@@ -28,6 +28,7 @@ article {
 
 .image-row {
   display: flex;
+  txtalign: left;
 }
 
 .Thrushes-img img {
