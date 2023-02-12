@@ -49,6 +49,7 @@ figure img{
 figcaption{
   font-size: 12px;
   display: block !important;
+  text-align: left;
 }
 
 p.image-left{
