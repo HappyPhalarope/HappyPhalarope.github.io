@@ -48,5 +48,5 @@ figure img{
 figcaption{
   font-size: 12px;
   textalihn: left !important;
-  display: inline !important;
+  display: block !important;
 }
