@@ -28,12 +28,13 @@ article {
 
 .image-row {
   display: flex;
-  txtalign: left;
+  txt-align: left;
 }
 
 .Thrushes-img img {
  　 　　　min-width :300px;
     width: 30%;  
+    text-align: left;
 }
 
 figure {
