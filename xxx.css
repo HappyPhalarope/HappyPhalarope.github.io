@@ -42,7 +42,7 @@ figure {
 }
 
 figure img{
-    min-width :200px !important;
+    min-width :300px !important;
     width: 30% !important;  
 }
 
@@ -54,4 +54,6 @@ figcaption{
 
 p.image-left{
   text-align: left;
+  min-width :300px !important;
+  width: 30% !important;  
 }
