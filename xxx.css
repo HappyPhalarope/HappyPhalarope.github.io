@@ -37,6 +37,7 @@ article {
 .image-row {
   display: flex;
   txt-align: left;
+  margin: 0px !important;
 }
 
 .Thrushes-img img {
@@ -64,4 +65,8 @@ p.image-left{
   text-align: left;
   min-width :300px !important;
   width: 30% !important;  
+}
+
+li{
+  margin:0px 0px 0px 15px;
 }
