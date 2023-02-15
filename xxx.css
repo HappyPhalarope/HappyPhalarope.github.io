@@ -38,7 +38,7 @@ article {
   display: flex;
   text-align: left;
   margin: 0px !important;
- 　justify-content: flex-end;
+  justify-content: space-around;
 }
 
 .Thrushes-img img {
