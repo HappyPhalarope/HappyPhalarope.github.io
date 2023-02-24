@@ -3,6 +3,7 @@ header {
 }
 
 .side {
+  overflow-y: scroll;
   background-color:#e9dfe5;
   width:15%;
   text-align:left;
