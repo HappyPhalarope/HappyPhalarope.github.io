@@ -14,13 +14,7 @@ header {
 } 
 
 .side-scroll {
-  overflow-y: scroll;
-  background-color:#e9dfe5;
-  width:15%;
-  text-align:left;
-  padding:2% 1% 1% 1%;
-  position: fixed;
-  margin-top: 115px;
+  height:150%;
 } 
 
 .content {
