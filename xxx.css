@@ -7,7 +7,6 @@ header {
   width:15%;
   height:100%;
   text-align:left;
-  height:150%;
   padding:2% 1% 1% 1%;
   position: fixed;
   margin-top: 115px;
@@ -17,6 +16,7 @@ header {
   overflow-y: scroll;
   background-color:#e9dfe5;
   width:15%;
+  height:150%;
   text-align:left;
   padding:2% 1% 1% 1%;
   position: fixed;
