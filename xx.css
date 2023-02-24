@@ -142,3 +142,7 @@ figcaption{
 .small-70 {
   font-size: 0.7rem;
 }
+
+.feather-side {
+  text-align: left;
+}
